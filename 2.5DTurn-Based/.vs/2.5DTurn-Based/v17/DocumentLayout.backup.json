@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\Turn-Beast\\2.5DTurn-Based\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|e:\\turn-beast\\2.5dturn-based\\assets\\scripts\\fadecave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fadecave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|E:\\Turn-Beast\\2.5DTurn-Based\\assets\\scripts\\joinablecharacterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\joinablecharacterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|e:\\turn-beast\\2.5dturn-based\\assets\\scripts\\startgamebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startgamebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|E:\\Turn-Beast\\2.5DTurn-Based\\assets\\scripts\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|E:\\Turn-Beast\\2.5DTurn-Based\\assets\\scripts\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|E:\\Turn-Beast\\2.5DTurn-Based\\assets\\scripts\\joinablecharacterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\joinablecharacterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A2DB3B0-110E-1C14-AC58-02845525BB83}|Assembly-CSharp.csproj|E:\\Turn-Beast\\2.5DTurn-Based\\assets\\scripts\\battle visual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FadeCave.cs",
-              "DocumentMoniker": "E:\\Turn-Beast\\2.5DTurn-Based\\Assets\\Scripts\\FadeCave.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FadeCave.cs",
-              "ToolTip": "E:\\Turn-Beast\\2.5DTurn-Based\\Assets\\Scripts\\FadeCave.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FadeCave.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T14:55:37.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "JoinableCharacterScript.cs",
               "DocumentMoniker": "E:\\Turn-Beast\\2.5DTurn-Based\\Assets\\Scripts\\JoinableCharacterScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JoinableCharacterScript.cs",
@@ -55,12 +42,24 @@
               "RelativeToolTip": "Assets\\Scripts\\JoinableCharacterScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T10:30:17.887Z",
+              "WhenOpened": "2025-03-30T10:30:17.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartGameButton.cs",
+              "DocumentMoniker": "E:\\Turn-Beast\\2.5DTurn-Based\\Assets\\Scripts\\StartGameButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartGameButton.cs",
+              "ToolTip": "E:\\Turn-Beast\\2.5DTurn-Based\\Assets\\Scripts\\StartGameButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartGameButton.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T03:11:25.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CharacterManager.cs",
               "DocumentMoniker": "E:\\Turn-Beast\\2.5DTurn-Based\\Assets\\Scripts\\CharacterManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterManager.cs",
@@ -72,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BattleSystem.cs",
               "DocumentMoniker": "E:\\Turn-Beast\\2.5DTurn-Based\\Assets\\Scripts\\BattleSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BattleSystem.cs",
