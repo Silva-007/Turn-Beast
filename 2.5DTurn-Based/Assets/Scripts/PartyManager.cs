@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class PartyManager : MonoBehaviour
 {
-    [SerializeField] private PartyMemberInfo[] allMembers;//存有所有成员的数组
-    [SerializeField] private List<PartyMember> currentParty;
+    public  PartyMemberInfo[] allMembers;//存有所有成员的数组
+    public  List<PartyMember> currentParty;
     [SerializeField] private PartyMemberInfo defaultPartMember;
 
     private Vector3 playerPosition;//玩家的三维坐标

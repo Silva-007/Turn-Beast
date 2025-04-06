@@ -61,18 +61,29 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\StartGameButton.cs" />
+    <Compile Include="Assets\Scripts\PackagePanel.cs" />
+    <Compile Include="Assets\Scripts\BasePanel.cs" />
+    <Compile Include="Assets\Scripts\Backpack Manager.cs" />
     <Compile Include="Assets\Scripts\EncounterSystem.cs" />
     <Compile Include="Assets\Scripts\PartyManager.cs" />
     <Compile Include="Assets\Scripts\BattleSystem.cs" />
+    <Compile Include="Assets\Scripts\MainMenuManager.cs" />
     <Compile Include="Assets\Scripts\JoinableCharacterScript.cs" />
     <Compile Include="Assets\Scripts\FadeCave.cs" />
     <Compile Include="Assets\Scripts\EnemyManager.cs" />
     <Compile Include="Assets\Scripts\PControl.cs" />
     <Compile Include="Assets\Scripts\Battle Visual.cs" />
     <Compile Include="Assets\Input System\PlayerControls.cs" />
+    <Compile Include="Assets\Scripts\UIManager.cs" />
     <Compile Include="Assets\Scripts\EnemyInfo.cs" />
+    <Compile Include="Assets\Scripts\PauseManagers.cs" />
+    <Compile Include="Assets\Scripts\PackageLoadData.cs" />
     <Compile Include="Assets\Scripts\Animation Helper.cs" />
     <Compile Include="Assets\Scripts\CharacterManager.cs" />
+    <Compile Include="Assets\Scripts\Pickup.cs" />
+    <Compile Include="Assets\Scripts\UIMouseHoverEvent.cs" />
+    <Compile Include="Assets\Scripts\BackPack.cs" />
+    <Compile Include="Assets\Scripts\BackpackTable.cs" />
     <Compile Include="Assets\Scripts\MemberFollowAI.cs" />
     <Compile Include="Assets\Scripts\PartyMemberInfo.cs" />
   </ItemGroup>

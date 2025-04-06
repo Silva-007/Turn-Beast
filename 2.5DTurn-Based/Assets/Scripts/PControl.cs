@@ -41,6 +41,11 @@ public class PControl : MonoBehaviour
         playerControls.Enable();//启动玩家控制器
     }
 
+    private void OnDisable()
+    {
+        playerControls.Disable();
+    }
+
     private void Start()
     {
         rb = gameObject.GetComponent<Rigidbody>();//获取刚体组件
